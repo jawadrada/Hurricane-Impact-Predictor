@@ -1,6 +1,5 @@
 ### **Column Info for Hurricane Dataset**
 
-1. **Unnamed: 0**: This is likely an index column that was automatically created when the data was read into a DataFrame. It may not have any meaningful information.
 
 2. **Year**: The year when the hurricane or storm data was recorded.
 
